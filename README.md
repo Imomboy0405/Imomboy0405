@@ -15,9 +15,6 @@ I'm Imomboy from Uzbekistan, and I create mobile apps. I really like learning la
 - 📫 How to reach me: [**Telegram**](https://t.me/Mirislomov_Imomboy), [**Github**](https://github.com/Imomboy0405), [**Dev Community**](https://dev.to/Imomboy0405), [**LinkedIn**](https://www.linkedin.com/in/imomboy-mirislomov-317a7924a/), [**Stack Overflow**](https://stackoverflow.com/users/19895771), 
 - 😄 Pronouns: He/His 
 - ⚡ Fun fact: I spend almost 8 hours to programming every day. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Imomboy0405)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Imomboy0405)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/imomboy-mirislomov-317a7924a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/19895771)
 ##
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Imomboy0405&show_icons=true&bg_color=000000&icon_color=FFFF00&text_color=00ff00&title_color=0000FF&border_color=00ffff&border_radius=10&)](https://github.com/Imomboy0405)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imomboy0405&langs_count=8&show_icons=true&bg_color=000000&icon_color=FFFF00&text_color=00ff00&title_color=0000FF&border_color=00ffff&border_radius=10)](https://github.com/Imomboy0405) 
