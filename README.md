@@ -1,12 +1,17 @@
 ![Mobile Development](https://user-images.githubusercontent.com/103039335/187985075-e490846e-ce85-4b65-a0f6-4e965ee96bac.png)
-## Hi there👋, I'm Imomboy Mirislomov
+
+## Hi there👋, I'm Imomboy Mirislomov 
+
 ### Mobile Development
 I'm Imomboy from Uzbekistan, and I create mobile apps. I really like learning languages and frameworks like Flutter and Dart. I also interested applications, UI, UX, and design.
 ##
 
 <details>
     <summary>Details</summary>
-    
+<table>
+<tr>
+<td>
+
 - 🔭 I’m currently working on Mobile Applications. 
 - 🌱 I’m currently learning Flutter. 
 - 👯 I want to collaborate on Github. 
@@ -15,6 +20,12 @@ I'm Imomboy from Uzbekistan, and I create mobile apps. I really like learning la
 - 📫 How to reach me: [**Telegram**](https://t.me/Mirislomov_Imomboy), [**Github**](https://github.com/Imomboy0405), [**Dev Community**](https://dev.to/Imomboy0405), [**LinkedIn**](https://www.linkedin.com/in/imomboy-mirislomov-317a7924a/), [**Stack Overflow**](https://stackoverflow.com/users/19895771), 
 - 😄 Pronouns: He/His 
 - ⚡ Fun fact: I spend almost 8 hours to programming every day. 
+</td>
+<td>
+
+<img src="https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif" width="300">
+</tr>
+</table>
 </details>
 
 ##
