@@ -23,7 +23,7 @@ I'm Imomboy from Uzbekistan, and I create mobile apps. I really like learning la
 </td>
 <td>
 
-<img src="https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif" width="300">
+<img src="https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif" width="250">
 </tr>
 </table>
 </details>
