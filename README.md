@@ -12,7 +12,7 @@ I'm Imomboy from Uzbekistan, and I create mobile apps. I really like learning la
 - 👯 I want to collaborate on Github. 
 - 🤔 I’m looking for help with finding job. 
 - 💬 Ask me about Flutter or any tech stuff. 
-- 📫 How to reach me: [**Telegram -** *@Mirislomov_Imomboy*](https://t.me/Mirislomov_Imomboy) 
+- 📫 How to reach me: [**Telegram**](https://t.me/Mirislomov_Imomboy), [**Github**](https://github.com/Imomboy0405), [**Dev Community**](https://dev.to/Imomboy0405), [**LinkedIn**](https://www.linkedin.com/in/imomboy-mirislomov-317a7924a/), [**Stack Overflow**](https://stackoverflow.com/users/19895771), 
 - 😄 Pronouns: He/His 
 - ⚡ Fun fact: I spend almost 8 hours to programming every day. 
 
