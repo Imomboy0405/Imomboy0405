@@ -41,7 +41,7 @@
 
 <th rowspan="2">
 
-<img src="https://user-images.githubusercontent.com/103039335/188191427-b004fa74-753a-4a8d-831c-1aeb10f840f8.png" width="260">
+<img src="https://user-images.githubusercontent.com/103039335/188194271-04d3c533-1ef5-410a-a41c-57d9df25a49a.jpg" width="300">
 
 </th>
 </tr>
@@ -53,7 +53,7 @@
  
 <th>
 
-<img src='https://cdn-icons-png.flaticon.com/128/6132/6132222.png' alt='github' height='40'> <img src='https://flutter.su/file/1c9e18a80358bb98547bf4295ec8c438.png?w=300' alt='github' height='40'> <img src='https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcttz0g%2FbtqFS0mc4u0%2FeUDKVHDdKuzy7wcEiB58Q1%2Fimg.png' alt='github' height='40'> <img src='https://pbs.twimg.com/media/EiwXTwlWoAAYJpZ.png' alt='github' height='40'> 
+<img src='https://cdn-icons-png.flaticon.com/128/6132/6132222.png' alt='github' height='40'> <img src='https://flutter.su/file/1c9e18a80358bb98547bf4295ec8c438.png?w=300' alt='github' height='40' width='40'> <img src='https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcttz0g%2FbtqFS0mc4u0%2FeUDKVHDdKuzy7wcEiB58Q1%2Fimg.png' alt='github' height='40' width='40'> <img src='https://pbs.twimg.com/media/EiwXTwlWoAAYJpZ.png' alt='github' height='40' width='40'> 
 
 <img src='https://lip.radiostuff.ru/wa-data/public/shop/brands/40865/40865.png' alt='github' height='40'> <img src='https://pbs.twimg.com/media/BulhExbIMAAfbLV.png' alt='github' height='40'> <img src='https://lh3.googleusercontent.com/tE7qNqu1tahTeNJVDwAd8R2NK1-btdTl4EXE9m-7QVTX4PuJUsEPQlQlG9kwp9XhPvFa=w300' alt='github' height='40'> <img src='https://hookahcenter.shop/app/ico.png' alt='github' height='40'> 
 
