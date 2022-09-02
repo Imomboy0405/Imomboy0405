@@ -11,7 +11,7 @@
 ##
 
 <details>
-    <summary><h1 style="font-size:20px;">Details 📄</h1></summary>
+    <summary><h1 style="font-size:18px;">Details 📄</h1></summary>
     
 <table>
 
@@ -42,7 +42,7 @@
 <tr>
 <th>
 
-<img src="https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif" width="500">
+<img src="https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif" width="450">
 
 </th>
 </tr>
@@ -53,7 +53,7 @@
 <div align="left">
     
 <details>
-    <summary><h1 style="font-size:20px;">Statistics 📈</h1></summary>
+    <summary><h1 style="font-size:18px;">Statistics 📈</h1></summary>
     <div align="center">
 
 <table style="width:100%">
@@ -84,7 +84,7 @@
     </details>
     
 <details>
-    <summary><h1 style="font-size:20px;">Trophyies 🏆</h1></summary>
+    <summary><h1 style="font-size:18px;">Trophyies 🏆</h1></summary>
         <div align="center">
             
 ## GitHub Profile Trophy 🏆
