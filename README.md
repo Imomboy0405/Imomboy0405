@@ -44,7 +44,7 @@
 <tr>
 <th>
 
-<img src="https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif" width="630">
+<img src="https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif" width="500">
 
 </th>
 </tr>
