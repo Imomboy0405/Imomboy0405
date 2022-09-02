@@ -12,7 +12,8 @@
 
 <details>
     <summary><h2>Details 📄</h2></summary>
-    
+
+<div align="center">
 <table>
 
 <tr>
@@ -41,7 +42,7 @@
 
 <th rowspan="2">
 
-<img src="https://user-images.githubusercontent.com/103039335/188194271-04d3c533-1ef5-410a-a41c-57d9df25a49a.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/103039335/188199140-0e8c53cf-665d-4c65-9c66-b33311765d93.gif" width="300">
 
 </th>
 </tr>
@@ -52,12 +53,15 @@
 <img src="https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif" width="260">
  
 <th>
+    
+<img src="https://user-images.githubusercontent.com/103039335/188201776-6a542046-88da-435c-aa58-8c74ff1d2286.gif" width="200">
 
 <img src='https://cdn-icons-png.flaticon.com/128/6132/6132222.png' alt='github' height='40'> <img src='https://flutter.su/file/1c9e18a80358bb98547bf4295ec8c438.png?w=300' alt='github' height='40' width='40'> <img src='https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcttz0g%2FbtqFS0mc4u0%2FeUDKVHDdKuzy7wcEiB58Q1%2Fimg.png' alt='github' height='40' width='40'> <img src='https://pbs.twimg.com/media/EiwXTwlWoAAYJpZ.png' alt='github' height='40' width='40'> 
-
+        
 <img src='https://lip.radiostuff.ru/wa-data/public/shop/brands/40865/40865.png' alt='github' height='40'> <img src='https://pbs.twimg.com/media/BulhExbIMAAfbLV.png' alt='github' height='40'> <img src='https://lh3.googleusercontent.com/tE7qNqu1tahTeNJVDwAd8R2NK1-btdTl4EXE9m-7QVTX4PuJUsEPQlQlG9kwp9XhPvFa=w300' alt='github' height='40'> <img src='https://hookahcenter.shop/app/ico.png' alt='github' height='40'> 
 
 <img src='https://cases.devlight.io/wp-content/uploads/2019/07/kotlin-1-logo.png' alt='github' height='40'> <img src='https://www.bilety24.pl/images/G.png' alt='github' height='40'><img src='https://www.freepngimg.com/thumb/tshirt/75908-tux-t-shirt-racer-kernel-linux-png-file-hd.png' alt='github' height='40'> <img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6d244090-b519-4f4a-8cf1-65500d741019/d4oug41-73e1266e-c792-4bfc-9762-806703da64c1.png/v1/fill/w_256,h_256,strp/microsoft_windows_xp_dock_icon_by_timsmanter_d4oug41-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjU2IiwicGF0aCI6IlwvZlwvNmQyNDQwOTAtYjUxOS00ZjRhLThjZjEtNjU1MDBkNzQxMDE5XC9kNG91ZzQxLTczZTEyNjZlLWM3OTItNGJmYy05NzYyLTgwNjcwM2RhNjRjMS5wbmciLCJ3aWR0aCI6Ijw9MjU2In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.PDIeS7wAPn0aT7o-z1l_U5p2fUEHMiO_Twa8OSHGOzc' alt='github' height='40'>
+
 </th>
 
 
@@ -65,6 +69,7 @@
 </tr>
 
 </table>
+</div>
 </details>
 
 <div align="left">
@@ -76,7 +81,7 @@
 <table style="width:100%">
 
 <tr>
-<th>
+<th colspan="2">
 
 ###
 ![fdfs](https://pagespeed-insights.herokuapp.com/?url=https://github.com/Imomboy0405/&categories=performance,accessibility,best-practices,seo&strategy=mobile)
