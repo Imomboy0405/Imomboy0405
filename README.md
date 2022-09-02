@@ -1,5 +1,7 @@
 ![Mobile Development](https://user-images.githubusercontent.com/103039335/187985075-e490846e-ce85-4b65-a0f6-4e965ee96bac.png)
 
+![fdfs](https://pagespeed-insights.herokuapp.com/?url=https://github.com/Imomboy0405/&categories=performance,accessibility,best-practices,seo)
+
 <div align="center">
 
 ## _Hi there👋, I'm Imomboy Mirislomov_
@@ -11,7 +13,7 @@
 ##
 
 <details>
-    <summary><h1 style="font-size:40px;">Details 📄</h1></summary>
+    <summary><h2>Details 📄</h2></summary>
     
 <table>
 
@@ -20,7 +22,8 @@
 
 - 🔭 I’m currently working on Mobile Applications. 
 - 🌱 I’m currently learning Flutter. 
-- 👯 I want to collaborate on Github. 
+- 👯 I want to collaborate on Github. ![68747470733a2f2f7061676573706565642d696e7369676874732e6865726f6b756170702e636f6d2f3f75726c3d68747470733a2f2f6769746875622e636f6d2f496d6f6d626f79303430352f](https://user-images.githubusercontent.com/103039335/188181459-58a81b5f-d5ba-449a-8003-f9741707c20c.svg)
+
 - 🤔 I’m looking for help with finding job. 
 - 💬 Ask me about Flutter or any tech stuff. 
 - 😄 Pronouns: He/His 
@@ -53,7 +56,7 @@
 <div align="left">
     
 <details>
-    <summary><h1 style="font-size:40px;">Statistics 📈</h1></summary>
+    <summary><h2>Statistics 📈</h2></summary>
     <div align="center">
 
 <table style="width:100%">
@@ -84,7 +87,7 @@
     </details>
     
 <details>
-    <summary><h1 style="font-size:18px;">Trophyies 🏆</h1></summary>
+    <summary><h2>Trophyies 🏆</h2></summary>
         <div align="center">
             
 ## GitHub Profile Trophy 🏆
