@@ -1,6 +1,6 @@
 ![Mobile Development](https://user-images.githubusercontent.com/103039335/187985075-e490846e-ce85-4b65-a0f6-4e965ee96bac.png)
 
-![fdfs](https://pagespeed-insights.herokuapp.com/?url=https://github.com/Imomboy0405/&categories=performance,accessibility,best-practices,seo)
+![fdfs](https://pagespeed-insights.herokuapp.com/?url=https://github.com/Imomboy0405/&categories=performance,accessibility,best-practices,seo&strategy=mobile)
 
 <div align="center">
 
