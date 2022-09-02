@@ -1,7 +1,5 @@
 ![Mobile Development](https://user-images.githubusercontent.com/103039335/187985075-e490846e-ce85-4b65-a0f6-4e965ee96bac.png)
 
-![fdfs](https://pagespeed-insights.herokuapp.com/?url=https://github.com/Imomboy0405/&categories=performance,accessibility,best-practices,seo&strategy=mobile)
-
 <div align="center">
 
 ## _Hi there👋, I'm Imomboy Mirislomov_
@@ -18,12 +16,11 @@
 <table>
 
 <tr>
-<td>
+<td colspan="2">
 
 - 🔭 I’m currently working on Mobile Applications. 
 - 🌱 I’m currently learning Flutter. 
-- 👯 I want to collaborate on Github. ![68747470733a2f2f7061676573706565642d696e7369676874732e6865726f6b756170702e636f6d2f3f75726c3d68747470733a2f2f6769746875622e636f6d2f496d6f6d626f79303430352f](https://user-images.githubusercontent.com/103039335/188181459-58a81b5f-d5ba-449a-8003-f9741707c20c.svg)
-
+- 👯 I want to collaborate on Github.
 - 🤔 I’m looking for help with finding job. 
 - 💬 Ask me about Flutter or any tech stuff. 
 - 😄 Pronouns: He/His 
@@ -39,13 +36,30 @@
 [![Stack overflow](https://img.shields.io/badge/Imomboy-FF7F27?style=for-the-badge&logoColor=white&logo=Stack%20Overflow)](https://stackoverflow.com/users/19895771)
 [![telegram](https://img.shields.io/badge/Imomboy-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mirislomov_Imomboy/)
 [![Gmail](https://img.shields.io/badge/Imomboy-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=imomboymirislomov@gmail.com&su=Assalomu%20Alaykum%20Imomboy&tf=cm)
+
 </td>
+
+<th rowspan="2">
+
+<img src="https://user-images.githubusercontent.com/103039335/188191427-b004fa74-753a-4a8d-831c-1aeb10f840f8.png" width="260">
+
+</th>
 </tr>
 
 <tr>
 <th>
 
-<img src="https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif" width="480">
+<img src="https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif" width="260">
+ 
+<th>
+
+<img src='https://cdn-icons-png.flaticon.com/128/6132/6132222.png' alt='github' height='40'> <img src='https://flutter.su/file/1c9e18a80358bb98547bf4295ec8c438.png?w=300' alt='github' height='40'> <img src='https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcttz0g%2FbtqFS0mc4u0%2FeUDKVHDdKuzy7wcEiB58Q1%2Fimg.png' alt='github' height='40'> <img src='https://pbs.twimg.com/media/EiwXTwlWoAAYJpZ.png' alt='github' height='40'> 
+
+<img src='https://lip.radiostuff.ru/wa-data/public/shop/brands/40865/40865.png' alt='github' height='40'> <img src='https://pbs.twimg.com/media/BulhExbIMAAfbLV.png' alt='github' height='40'> <img src='https://lh3.googleusercontent.com/tE7qNqu1tahTeNJVDwAd8R2NK1-btdTl4EXE9m-7QVTX4PuJUsEPQlQlG9kwp9XhPvFa=w300' alt='github' height='40'> <img src='https://hookahcenter.shop/app/ico.png' alt='github' height='40'> 
+
+<img src='https://cases.devlight.io/wp-content/uploads/2019/07/kotlin-1-logo.png' alt='github' height='40'> <img src='https://www.bilety24.pl/images/G.png' alt='github' height='40'><img src='https://www.freepngimg.com/thumb/tshirt/75908-tux-t-shirt-racer-kernel-linux-png-file-hd.png' alt='github' height='40'> <img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6d244090-b519-4f4a-8cf1-65500d741019/d4oug41-73e1266e-c792-4bfc-9762-806703da64c1.png/v1/fill/w_256,h_256,strp/microsoft_windows_xp_dock_icon_by_timsmanter_d4oug41-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjU2IiwicGF0aCI6IlwvZlwvNmQyNDQwOTAtYjUxOS00ZjRhLThjZjEtNjU1MDBkNzQxMDE5XC9kNG91ZzQxLTczZTEyNjZlLWM3OTItNGJmYy05NzYyLTgwNjcwM2RhNjRjMS5wbmciLCJ3aWR0aCI6Ijw9MjU2In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.PDIeS7wAPn0aT7o-z1l_U5p2fUEHMiO_Twa8OSHGOzc' alt='github' height='40'>
+</th>
+
 
 </th>
 </tr>
@@ -60,6 +74,16 @@
     <div align="center">
 
 <table style="width:100%">
+
+<tr>
+<th>
+
+###
+![fdfs](https://pagespeed-insights.herokuapp.com/?url=https://github.com/Imomboy0405/&categories=performance,accessibility,best-practices,seo&strategy=mobile)
+
+</th>
+</tr>
+
 <tr>
 <td>
 
@@ -71,15 +95,6 @@
 <a href="https://github.com/Imomboy0405/github-readme-stats"><img alt="rzashakeri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imomboy0405&langs_count=8&layout=compact&theme=default&show_icons=true&text_color=00ff00&border_color=00ffff&border_radius=5&bg_color=000000&title_color=0000FF&icon_color=FFFF00&hide=Jupyter%20Notebook" height="192px"/>
 
 </td>
-</tr>
-    
-<tr>
-<th  colspan="2">
-
-### Skills:
-<img src='https://cdn-icons-png.flaticon.com/128/6132/6132222.png' alt='github' height='40'> <img src='https://flutter.su/file/1c9e18a80358bb98547bf4295ec8c438.png?w=300' alt='github' height='40'> <img src='https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcttz0g%2FbtqFS0mc4u0%2FeUDKVHDdKuzy7wcEiB58Q1%2Fimg.png' alt='github' height='40'> <img src='https://pbs.twimg.com/media/EiwXTwlWoAAYJpZ.png' alt='github' height='40'> <img src='https://cases.devlight.io/wp-content/uploads/2019/07/kotlin-1-logo.png' alt='github' height='40'> <img src='https://pbs.twimg.com/media/BulhExbIMAAfbLV.png' alt='github' height='40'> <img src='https://lh3.googleusercontent.com/tE7qNqu1tahTeNJVDwAd8R2NK1-btdTl4EXE9m-7QVTX4PuJUsEPQlQlG9kwp9XhPvFa=w300' alt='github' height='40'> <img src='https://hookahcenter.shop/app/ico.png' alt='github' height='40'> <img src='https://lip.radiostuff.ru/wa-data/public/shop/brands/40865/40865.png' alt='github' height='40'> <img src='https://www.bilety24.pl/images/G.png' alt='github' height='40'><img src='https://www.freepngimg.com/thumb/tshirt/75908-tux-t-shirt-racer-kernel-linux-png-file-hd.png' alt='github' height='40'> <img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6d244090-b519-4f4a-8cf1-65500d741019/d4oug41-73e1266e-c792-4bfc-9762-806703da64c1.png/v1/fill/w_256,h_256,strp/microsoft_windows_xp_dock_icon_by_timsmanter_d4oug41-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjU2IiwicGF0aCI6IlwvZlwvNmQyNDQwOTAtYjUxOS00ZjRhLThjZjEtNjU1MDBkNzQxMDE5XC9kNG91ZzQxLTczZTEyNjZlLWM3OTItNGJmYy05NzYyLTgwNjcwM2RhNjRjMS5wbmciLCJ3aWR0aCI6Ijw9MjU2In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.PDIeS7wAPn0aT7o-z1l_U5p2fUEHMiO_Twa8OSHGOzc' alt='github' height='40'>
-
-</th>
 </tr>
     
 </table>
