@@ -42,7 +42,7 @@
 <tr>
 <th>
 
-<img src="https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif" width="450">
+<img src="https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif" width="480">
 
 </th>
 </tr>
@@ -53,7 +53,7 @@
 <div align="left">
     
 <details>
-    <summary><h1 style="font-size:18px;">Statistics 📈</h1></summary>
+    <summary><h1 style="font-size:40px;">Statistics 📈</h1></summary>
     <div align="center">
 
 <table style="width:100%">
