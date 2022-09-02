@@ -1,6 +1,11 @@
 ![Mobile Development](https://user-images.githubusercontent.com/103039335/187985075-e490846e-ce85-4b65-a0f6-4e965ee96bac.png)
 
+
+<div align="center">
+
 ## Hi there👋, I'm Imomboy Mirislomov 
+
+</div>  
 
 ### Mobile Development
 I'm Imomboy from Uzbekistan, and I create mobile apps. I really like learning languages and frameworks like Flutter and Dart. I also interested applications, UI, UX, and design.
@@ -35,8 +40,11 @@ I'm Imomboy from Uzbekistan, and I create mobile apps. I really like learning la
 </table>
 </details>
 
+<div align="center">
+
 ##
 <table style="width:100%">
+<br/>
 <tr>
 <th  colspan="2">
 
@@ -53,7 +61,7 @@ I'm Imomboy from Uzbekistan, and I create mobile apps. I really like learning la
 </td>
 <td>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imomboy0405&langs_count=8&show_icons=true&bg_color=000000&icon_color=FFFF00&text_color=00ff00&title_color=0000FF&border_color=00ffff&border_radius=10)](https://github.com/Imomboy0405) 
+<a href="https://github.com/Imomboy0405/github-readme-stats"><img alt="rzashakeri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imomboy0405&langs_count=8&layout=compact&theme=default&show_icons=true&text_color=00ff00&border_color=00ffff&border_radius=5&bg_color=000000&title_color=0000FF&icon_color=FFFF00&hide=Jupyter%20Notebook" height="192px"/>
 
 </td>
 </tr>
@@ -61,3 +69,8 @@ I'm Imomboy from Uzbekistan, and I create mobile apps. I really like learning la
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 ![](https://komarev.com/ghpvc/?username=Imomboy0405&label=PROFILE+VIEWS&style=for-the-badge)
+
+## GitHub Profile Trophy 🏆
+[![trophy](https://github-profile-trophy.vercel.app/?username=Imomboy0405&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>  
