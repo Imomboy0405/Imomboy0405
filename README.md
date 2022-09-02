@@ -11,7 +11,7 @@
 ##
 
 <details>
-    <summary><h1 style="font-size:18px;">Details 📄</h1></summary>
+    <summary><h1 style="font-size:14px;">Details 📄</h1></summary>
     
 <table>
 
