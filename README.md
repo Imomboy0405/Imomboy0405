@@ -32,7 +32,7 @@
 [![Linkedin](https://img.shields.io/badge/Imomboy-0077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/imomboy-mirislomov-317a7924a/)
 [![github](https://img.shields.io/badge/Imomboy-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Imomboy0405/)
 [![telegram](https://img.shields.io/badge/Imomboy-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mirislomov_Imomboy/)
-[![Dev Community](https://img.shields.io/badge/Imomboy-0A0A0A?style=for-the-badge&logoColor=white&logo=devdotto)](https://dev.to/Imomboy040)
+[![Dev Community](https://img.shields.io/badge/Imomboy-0A0A0A?style=for-the-badge&logoColor=white&logo=devdotto)](https://dev.to/Imomboy0405)
 [![Stack overflow](https://img.shields.io/badge/Imomboy-FF7F27?style=for-the-badge&logoColor=white&logo=Stack%20Overflow)](https://stackoverflow.com/users/19895771)
 
 </td>
