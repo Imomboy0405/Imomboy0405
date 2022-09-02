@@ -11,9 +11,7 @@
 ##
 
 <details>
-    <summary>Details 📄</summary>
-    
-####
+    <summary><h1 style="font-size:20px;">Details 📄</h1></summary>
     
 <table>
 
@@ -55,10 +53,8 @@
 <div align="left">
     
 <details>
-    <summary>Statistics 📈</summary>
+    <summary><h1 style="font-size:20px;">Statistics 📈</h1></summary>
     <div align="center">
-        
-####
 
 <table style="width:100%">
 <tr>
@@ -88,7 +84,7 @@
     </details>
     
 <details>
-    <summary>Trophyies 🏆</summary>
+    <summary><h1 style="font-size:20px;">Trophyies 🏆</h1></summary>
         <div align="center">
             
 ## GitHub Profile Trophy 🏆
