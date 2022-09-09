@@ -111,7 +111,7 @@
         <div align="center">
             
 ## GitHub Profile Trophy 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=Imomboy0405&row=1&margin-w=15&theme=darkhub)]
+
         </div>
 </details>
     
